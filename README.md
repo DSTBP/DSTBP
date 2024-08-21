@@ -11,4 +11,6 @@
 </p>
 
 
-![Lorin-github](https://github-profile-trophy.vercel.app/?username=dstbp)
+<!-- ![Lorin-github](https://github-profile-trophy.vercel.app/?username=dstbp) -->
+
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=dstbp.visitor-badge&left_color=green&right_color=red) -->
