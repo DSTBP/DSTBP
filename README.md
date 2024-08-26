@@ -150,10 +150,8 @@
 <p align="center">
   <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="/profile-night-rainbow.svg" />
+  <img alt="github 3D contribution table" src="profile-3d-contrib/profile-season-animate.svg" style="width: 70%;" />
 </p>
-
-
 
 <!-- 修仙系列统计卡片 -->
 <!-- ![DSTBP's GitHub stats](https://github-immortality.vercel.app/api?username=DSTBP) -->
