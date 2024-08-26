@@ -1,4 +1,4 @@
-<!-- 签名 http://www.jiqie.com/a/34.html -->
+![image](https://github.com/user-attachments/assets/a0f9ee7b-fcfd-4c10-b952-cbffee778256)<!-- 签名 http://www.jiqie.com/a/34.html -->
 <p align="center">
   <a href="https://github.com/DSTBP">
     <img src="https://dstbp.com/images/author/sign.png" alt="DSTBP" width="360" height="70" /></a>
@@ -126,6 +126,13 @@
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a> -->
 </p>
 
+<br/>
+
+<!-- 活动统计图 -->
+![DSTBP's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dstbp&theme=xcode)
+
+<!-- 修仙系列统计卡片 -->
+<!-- ![DSTBP's GitHub stats](https://github-immortality.vercel.app/api?username=DSTBP) -->
 
 
 
