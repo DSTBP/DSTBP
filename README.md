@@ -29,8 +29,8 @@
 
 <!-- 统计信息卡 热门语言卡 -->
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dstbp&show_icons=true&count_private=true&hide_border=true&bg_color=30,FEF6F3,C5E8FB" alt="DSTBP's GitHub stats" height="192px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dstbp&layout=compact&bg_color=30,FEF6F3,C5E8FB" alt="DSTBP Top Langs" height="192px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dstbp&show_icons=true&count_private=true&hide_border=true&bg_color=30,FEF6F3,C5E8FB" alt="DSTBP's GitHub stats" style="width: 45%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dstbp&layout=compact&hide_border=true&bg_color=30,FEF6F3,C5E8FB" alt="DSTBP Top Langs" style="width: 40%;" />
 </p>
 
 <br/>
@@ -139,7 +139,11 @@
 ![DSTBP's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dstbp&theme=xcode)
 
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DSTBP/DSTBP/images/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DSTBP/DSTBP/images/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DSTBP/DSTBP/images/github-contribution-grid-snake.svg">
+</picture>
 
 <!-- 修仙系列统计卡片 -->
 <!-- ![DSTBP's GitHub stats](https://github-immortality.vercel.app/api?username=DSTBP) -->
