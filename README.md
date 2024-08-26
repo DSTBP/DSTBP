@@ -139,11 +139,11 @@
 ![DSTBP's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dstbp&theme=xcode)
 
 
-<picture>
+<p align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DSTBP/DSTBP/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DSTBP/DSTBP/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DSTBP/DSTBP/output/github-contribution-grid-snake.svg">
-</picture>
+</p>
 
 <!-- 修仙系列统计卡片 -->
 <!-- ![DSTBP's GitHub stats](https://github-immortality.vercel.app/api?username=DSTBP) -->
