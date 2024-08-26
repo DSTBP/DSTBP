@@ -29,8 +29,8 @@
 
 <!-- 统计信息卡 热门语言卡 -->
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dstbp&show_icons=true&count_private=true&hide_border=true&bg_color=30,FEF6F3,C5E8FB" alt="DSTBP's GitHub stats" style="width: 45%;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dstbp&layout=compact&hide_border=true&bg_color=30,FEF6F3,C5E8FB" alt="DSTBP Top Langs" style="width: 40%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dstbp&show_icons=true&count_private=true&hide_border=true&bg_color=30,FEF6F3,C5E8FB" alt="DSTBP's GitHub stats" style="width: 50%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dstbp&layout=compact&hide_border=true&bg_color=30,FEF6F3,C5E8FB" alt="DSTBP Top Langs" style="width: 45%;" />
 </p>
 
 <br/>
