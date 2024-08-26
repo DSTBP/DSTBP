@@ -37,9 +37,9 @@
 
 <!-- 网站数据卡片 -->
 <p align="center">
-    <img src="https://stats.justsong.cn/api/juejin?id=970184033058142&theme=holi&lang=zh-CN" alt="DSTBP's juejin stats" style="width: 30%;" />
-    <img src="https://stats.justsong.cn/api/leetcode?username=DSTBP&cn=true&theme=holi" alt="DSTBP's LeetCode stats" style="width: 30%;" />
-    <img src="https://stats.justsong.cn/api/csdn?id=dcmbpg&theme=holi" alt="DSTBP's CSDN stats" style="width: 30%;" />
+    <img src="https://stats.justsong.cn/api/juejin?id=970184033058142&theme=holi&lang=zh-CN" alt="DSTBP's juejin stats" style="width: 43%;" />
+    <img src="https://stats.justsong.cn/api/leetcode?username=DSTBP&cn=true&theme=holi" alt="DSTBP's LeetCode stats" style="width: 43%;" />
+    <!-- <img src="https://stats.justsong.cn/api/csdn?id=dcmbpg&theme=holi" alt="DSTBP's CSDN stats" style="width: 30%;" /> -->
 </p>
 
 <br/>
@@ -143,8 +143,6 @@
 
 <!-- 修仙系列统计卡片 -->
 <!-- ![DSTBP's GitHub stats](https://github-immortality.vercel.app/api?username=DSTBP) -->
-
-
 
 <!-- ![Lorin-github](https://github-profile-trophy.vercel.app/?username=dstbp) -->
 
