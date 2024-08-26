@@ -37,8 +37,8 @@
 
 <!-- 网站数据卡片 -->
 <p align="center">
-    <img src="https://stats.justsong.cn/api/juejin?id=970184033058142&theme=holi&lang=zh-CN" alt="DSTBP's juejin stats" style="width: 45%; display: inline-block;" />
-    <img src="https://stats.justsong.cn/api/leetcode?username=DSTBP&cn=true&theme=holi" alt="DSTBP's LeetCode stats" style="width: 45%; display: inline-block;" />
+    <img src="https://stats.justsong.cn/api/juejin?id=970184033058142&theme=holi&lang=zh-CN" alt="DSTBP's juejin stats" height="210px" />
+    <img src="https://stats.justsong.cn/api/leetcode?username=DSTBP&cn=true&theme=holi" alt="DSTBP's LeetCode stats" height="210px" />
     <!-- <img src="https://stats.justsong.cn/api/steam?username=DSTBP&theme=holi" alt="DSTBP's steam stats" style="width: 45%; display: inline-block;" /> -->
 </p>
 
