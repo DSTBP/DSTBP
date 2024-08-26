@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a0f9ee7b-fcfd-4c10-b952-cbffee778256)<!-- 签名 http://www.jiqie.com/a/34.html -->
+<!-- 签名 http://www.jiqie.com/a/34.html -->
 <p align="center">
   <a href="https://github.com/DSTBP">
     <img src="https://dstbp.com/images/author/sign.png" alt="DSTBP" width="360" height="70" /></a>
@@ -40,6 +40,13 @@
     <img src="https://stats.justsong.cn/api/juejin?id=970184033058142&theme=holi&lang=zh-CN" alt="DSTBP's juejin stats" height="210px" />
     <img src="https://stats.justsong.cn/api/leetcode?username=DSTBP&cn=true&theme=holi" alt="DSTBP's LeetCode stats" height="210px" />
     <!-- <img src="https://stats.justsong.cn/api/steam?username=DSTBP&theme=holi" alt="DSTBP's steam stats" style="width: 45%; display: inline-block;" /> -->
+</p>
+
+<br/>
+
+<!-- 连续打卡 -->
+<p align="center">
+    <img src="https://streak-stats.demolab.com/?user=DSTBP&sideLabels=F00" alt="DSTBP's GitHub Streak" height="210px" />
 </p>
 
 <br/>
@@ -130,6 +137,9 @@
 
 <!-- 活动统计图 -->
 ![DSTBP's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dstbp&theme=xcode)
+
+
+
 
 <!-- 修仙系列统计卡片 -->
 <!-- ![DSTBP's GitHub stats](https://github-immortality.vercel.app/api?username=DSTBP) -->
