@@ -138,6 +138,7 @@
 <!-- 博客更新 -->
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1643514486/4700/hatenablog.png?1643514486" width="25"/> Latest Blog Posts </h3>
 <!-- BLOG-POST-LIST:START -->
+- [Hello, Valaxy!](https://www.dstbp.cn/posts/hello-valaxy)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
