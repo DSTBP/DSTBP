@@ -146,12 +146,17 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DSTBP/DSTBP/output/github-contribution-grid-snake.svg">
 </p>
 
-<!-- 3D 贡献图-->
+<!-- 3D 贡献图 -->
 <p align="center">
   <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-gitblock.svg" />
   <img alt="github 3D contribution table" src="profile-3d-contrib/profile-season-animate.svg" style="width: 70%;" />
 </p>
+
+<!-- 音乐 -->
+<!-- <p align="center">
+  <img src="https://netease-recent-profile.vercel.app/?id=490393660&cache=28800&title=RecnetPlayed&size=300&theme=card&show_random=1" alt="Netease recently played" title="Netease recently played">
+</p> -->
 
 
 <!-- 修仙系列统计卡片 -->
