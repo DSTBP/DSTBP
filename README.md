@@ -135,13 +135,6 @@
 
 <br/>
 
-<!-- 博客更新 -->
-<!-- <h3><img src="https://emojis.slackmojis.com/emojis/images/1643514486/4700/hatenablog.png?1643514486" width="25"/> Latest Blog Posts </h3>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->  -->
-
-<br/>
-
 <!-- 活动统计图 -->
 ![DSTBP's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dstbp&theme=xcode)
 
