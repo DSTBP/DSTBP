@@ -45,11 +45,11 @@
 <br/>
 
 <!-- 连续打卡 -->
-<p align="center">
-    <img src="https://streak-stats.demolab.com/?user=DSTBP&layout=compact&count_private=true&show_icons=true&fire=C5E8FB&theme=react" alt="DSTBP's GitHub Streak" height="210px" />
+<!-- <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=DSTBP" alt="DSTBP's GitHub Streak" height="210px" />
 </p>
 
-<br/>
+<br/> -->
 
 <!-- 框架徽章 -->
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1703239084/83641/booksq.gif?1703239084" width="25"/> Frameworks and Libraries</h3>
