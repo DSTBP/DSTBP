@@ -45,9 +45,7 @@
 <br/>
 
 <!-- 连续打卡 -->
-<p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DSTBP&theme=github-green-purple" alt="GitHub Streak" /></a>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DSTBP" alt="GitHub Streak" /></a>
 
 <br/>
 
