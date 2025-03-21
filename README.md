@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DSTBP">
-    <img src="https://github.com/DSTBP/images/r0xanne.png" alt="DSTBP" width="360" height="70" /></a>
+    <img src="https://github.com/DSTBP/DSTBP/blob/main/images/r0xanne.png?raw=true" alt="DSTBP" width="360" height="70" /></a>
 </p>
 
 
