@@ -29,17 +29,18 @@
 <br/>
 
 <!-- 统计信息卡 热门语言卡 -->
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dstbp&show_icons=true&count_private=true&hide_border=true&bg_color=30,FEF6F3,C5E8FB" alt="DSTBP's GitHub stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dstbp&layout=compact&hide_border=true&bg_color=30,FEF6F3,C5E8FB" alt="DSTBP Top Langs" />
-</p>
+<div align="center">
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dstbp&show_icons=true&count_private=true&hide_border=true&bg_color=30,FEF6F3,C5E8FB" />
+  
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dstbp&layout=compact&hide_border=true&bg_color=30,FEF6F3,C5E8FB" />
+</div>
 
 <br/>
 
 <!-- 网站数据卡片 -->
 <p align="center">
-    <img src="https://stats.justsong.cn/api/juejin?id=970184033058142&theme=holi" alt="DSTBP's juejin stats" />
-    <img src="https://stats.justsong.cn/api/leetcode?username=DSTBP&cn=true&theme=holi" alt="DSTBP's LeetCode stats" />
+    <!-- <img src="https://stats.justsong.cn/api/juejin?id=970184033058142&theme=holi" alt="DSTBP's juejin stats" /> -->
+    <!-- <img src="https://stats.justsong.cn/api/leetcode?username=DSTBP&cn=true&theme=holi" alt="DSTBP's LeetCode stats" /> -->
     <!-- <img src="https://stats.justsong.cn/api/csdn?id=dcmbpg&theme=holi" alt="DSTBP's CSDN stats" style="width: 30%;" /> -->
 </p>
 
