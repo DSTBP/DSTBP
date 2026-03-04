@@ -79,23 +79,18 @@ I am a **Graduate Student** deeply immersed in the world of **Privacy-Preserving
 
 ## 📊 GitHub Metrics & Statistics
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dstbp&show_icons=true&count_private=true&hide_border=true&bg_color=30,FEF6F3,C5E8FB" />
-      </td>
-      <td>
-        <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dstbp&layout=compact&hide_border=true&bg_color=30,FEF6F3,C5E8FB" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img width="100%" src="https://raw.githubusercontent.com/DSTBP/DSTBP/main/github-metrics.svg" alt="GitHub Metrics" />
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/DSTBP/DSTBP/main/github-metrics/languages.indepth.svg"
+           alt="Languages" width="100%">
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/DSTBP/DSTBP/main/github-metrics/reactions.svg"
+           alt="Reactions" width="100%">
+    </td>
+  </tr>
+</table>
 
 
 ---
