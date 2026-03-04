@@ -26,7 +26,7 @@
 <!-- 分隔线 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🧩 About Me
+## <img src="https://github.com/DSTBP/DSTBP/blob/main/images/aboutme.gif?raw=true" width="40"> About Me
 
 I am a **Graduate Student** deeply immersed in the world of **Privacy-Preserving Machine Learning (PPML)**. My current focus lies at the fascinating intersection of **Cryptography** and **AI Agents**, where I strive to build intelligent systems that respect and protect user privacy.
 
@@ -39,7 +39,7 @@ I am a **Graduate Student** deeply immersed in the world of **Privacy-Preserving
 <!-- 分隔线 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠 Tech Stack & Research Interests
+## <img src="https://github.com/DSTBP/DSTBP/blob/main/images/tech.gif?raw=true" width="43"> Tech Stack & Research Interests
 
 <div align="center">
 
@@ -76,7 +76,7 @@ I am a **Graduate Student** deeply immersed in the world of **Privacy-Preserving
 <!-- 分隔线 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Metrics & Statistics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="36"> GitHub Metrics & Statistics
 
 <table align="center" width="100%">
   <tr>
@@ -94,7 +94,7 @@ I am a **Graduate Student** deeply immersed in the world of **Privacy-Preserving
 <!-- 分隔线 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎨 rOxanne's Contribution Graph
+## <img src="https://github.com/DSTBP/DSTBP/blob/main/images/graph.gif?raw=true" width="40"> rOxanne's Contribution Graph
 
 <div align="center">
   <img alt="GitHub 3D Contribution" src="https://raw.githubusercontent.com/DSTBP/DSTBP/main/profile-3d-contrib/profile-season-animate.svg" width="80%" />
@@ -151,7 +151,7 @@ I am a **Graduate Student** deeply immersed in the world of **Privacy-Preserving
 <!-- 分隔线 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💭 The Day's Wisdom
+## <img src="https://github.com/DSTBP/DSTBP/blob/main/images/idea.gif?raw=true" width="40"> The Day's Wisdom
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
@@ -163,12 +163,6 @@ I am a **Graduate Student** deeply immersed in the world of **Privacy-Preserving
 <div align="center">
 
 ### 💖 Thanks for visiting!
-
-<!--**If you like what I do, maybe consider buying me a Tea!** ☕
-
- <a href="https://www.buymeacoffee.com/yourname">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
-</a> -->
 
 </div>
 
