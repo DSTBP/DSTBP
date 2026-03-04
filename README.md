@@ -20,9 +20,6 @@
 </p>
 
 
-
----
-
 ## 🧩 About Me
 
 I am a **Graduate Student** deeply immersed in the world of **Privacy-Preserving Machine Learning (PPML)**. My current focus lies at the fascinating intersection of **Cryptography** and **AI Agents**, where I strive to build intelligent systems that respect and protect user privacy.
@@ -33,7 +30,7 @@ I am a **Graduate Student** deeply immersed in the world of **Privacy-Preserving
 * 🌿 **Lifestyle**: An introverted soul who finds balance through healthy living and mindful wellness.
 * 💬 **Let's Connect**: Always open to discussing tech, privacy, or the latest clever small invention.
 
----
+<br>
 
 ## 🛠 Tech Stack & Research Interests
 
@@ -75,7 +72,7 @@ I am a **Graduate Student** deeply immersed in the world of **Privacy-Preserving
 
 
 
----
+<br>
 
 ## 📊 GitHub Metrics & Statistics
 
@@ -93,7 +90,7 @@ I am a **Graduate Student** deeply immersed in the world of **Privacy-Preserving
 </table>
 
 
----
+<br>
 
 ## 🎨 rOxanne's Contribution Graph
 
